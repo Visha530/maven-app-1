@@ -81,7 +81,7 @@
                 <a href="https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh" target="_blank">
                     <button class="docker-button"><i class="fab fa-docker"></i> Docker - Basics to Brilliance</button>
                 </a>
-                <a href="https://https://www.linkedin.com/in/vishal-hatkare-19998bba/" target="_blank">
+                <a href="https://https://www.linkedin.com/in/kastro-kiran/" target="_blank">
                     <button class="linkedin-button"><i class="fab fa-linkedin"></i> Kastro - LinkedIn</button>
                 </a>
             </p>
